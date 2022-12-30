@@ -1,0 +1,139 @@
+body {
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    height: fit-content;
+    width: fit-content;
+    background-color: rgb(36, 43, 51);
+
+}
+.background{
+    background: url("../Images/Rectangle.png") center no-repeat;
+    background-size: cover;
+
+}
+.headerer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.headerer ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Raleway';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 16px;
+ letter-spacing: 0.05em;
+}
+.headerer li {
+    margin: 50px 20px 10px
+}
+.back{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+
+}
+.Jiloi{
+    color: #D4C17F;
+    display: flex;
+    width: 656px;
+    height: 109px;
+    margin: 200px 100px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    text-align: center;
+    margin-bottom: 40%;
+}
+
+
+.housevop{
+    width: 134px;
+    height: 37px;
+
+    font-family: 'Post No Bills Jaffna SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    color: #ffffff;
+}
+
+
+.adres{
+    align-self: center;
+    display: flex;
+    justify-content: space-around;
+    width: 656px;
+    
+    
+}
+.adresss{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.adresss img{
+    Width: 14.71px; 
+    Height: 21px;
+    margin-right: 18.5px;
+}
+
+.phone{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.phone img{
+    Width: 21px; 
+    Height: 21px;
+    margin-right: 18.5px;
+
+}
+.kvartiri{
+    margin: 0px 50px;
+}
+.dvekar{
+    width: 535px;
+    height: 320px;
+    background-image: url(../Images/Rectangle\ \(1\).png);
+    margin-right: 15px;
+    margin-bottom: 30px;
+}
+
+.dvekardva{
+    width: 535px;
+    height: 320px;
+    background-image: url(../Images/Rectangle\ \(2\).png);
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+.kartinki{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.kvshki{
+    font-size: 36px;
+    
+    color: #D4C17F;
+    margin-top: 120px;
+}
+.txt{
+    padding-left: 50px;
+    padding-top: 248px;
+    font-size: 22px;
+}
+.choest{
+    margin: 300px 200px;
+ }
